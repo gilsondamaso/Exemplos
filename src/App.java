@@ -11,7 +11,7 @@ public class App {
         t.b = sc.nextDouble();
         t.c = sc.nextDouble();
 
-        double areaT1 = t.CalculoAreaTriangulo();
+        double areaT1 = t.CalculoAreaTriangulo();        
 
         System.out.println("INFORME OS LADOS DO SEGUNDO TRIÂNGULO: ");        
         t.a = sc.nextDouble();
